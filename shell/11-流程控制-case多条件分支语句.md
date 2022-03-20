@@ -21,13 +21,13 @@
 	read -p 'Number: ' num
 
 	case $num in
-	1|One)---此处需要注意,用|可以分隔参数变量
+	1 | One)---此处需要注意,用|可以分隔参数变量
 		echo 'hello'
 	;;
-	2|Two)
+	2 | Two)
 		echo 'hey'
 	;;
-	*|No)---*是shell的通配符,所以按照逻辑可以作为以上参数以外的特殊变量,也是shell编程中需要注意的一个功能
+	* | No)---*是shell的通配符,所以按照逻辑可以作为以上参数以外的特殊变量,也是shell编程中需要注意的一个功能
 		echo 'Okay, bye'
 	::
 	esac
