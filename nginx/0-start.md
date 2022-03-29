@@ -1,6 +1,6 @@
 ## nginx config
 
-* nginx配置文件位于/etc/nginx/nginx.conf
+* nginx閰嶇疆鏂囦欢浣嶄簬/etc/nginx/nginx.conf
 
-内容解析
-* worker_processes ** CPU数量设定 **
+鍐呭瑙ｆ瀽
+* worker_processes **CPU鏁伴噺璁惧畾**
