@@ -1,12 +1,14 @@
 ## config
 * git config --global user.name "name"  **将git用户名添加到配置文件**
 * git config --global user.email "email"  **将git用户邮箱添加到配置文件**
+* git config --list  **查看已设定的git配置**
+* 已设定的内容会存放于~\gitconfig
 
 ## init
-* git init *scr*  **初始化git目录**
+* git init  **初始化git当前工作目录**
 
 ## add 
-* git add *src*  **将文件添加到工作区**
+* git add *src*  **将路径中文件添加到工作区**
 
 ## status
 * git status  **查看git工作区里的内容和状况**
@@ -16,5 +18,3 @@
 
 ## branch
 * git branch -M main  **设定工作分支为main**
-
-## 
