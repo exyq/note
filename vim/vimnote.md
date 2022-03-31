@@ -1,6 +1,6 @@
 ## Vim 快捷键大全
 
-### 转自https://www.cnblogs.com/jiqingwu/archive/2012/06/14/vim_notes.html#id59
+###### 转自https://www.cnblogs.com/jiqingwu/archive/2012/06/14/vim_notes.html#id59
 
 ### 关于Vim
 
