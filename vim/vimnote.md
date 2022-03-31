@@ -1,5 +1,7 @@
 ## Vim 快捷键大全
 
+###转自https://www.cnblogs.com/jiqingwu/archive/2012/06/14/vim_notes.html#id59
+
 ### 关于Vim
 
 vim是我最喜欢的编辑器，也是linux下第二强大的编辑器。 虽然emacs是公认的世界第一，我认为使用emacs并没有使用vi进行编辑来得高效。 如果是初学vi，运行一下vimtutor是个聪明的决定。 （如果你的系统环境不是中文，而你想使用中文的vimtutor，就运行vimtutor zh）
