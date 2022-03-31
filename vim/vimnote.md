@@ -269,7 +269,7 @@ vimgrep前面可以加数字限定搜索结果的上限，如
 ##### 基本排版
 
   * << 向左缩进一个shiftwidth
-  * >> 向右缩进一个shiftwidth
+ * <p>>> 向右缩进一个shiftwidth</p>
   * :ce(nter) 本行文字居中
   * :le(ft) 本行文字靠左
   * :ri(ght) 本行文字靠右
