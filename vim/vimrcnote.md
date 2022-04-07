@@ -4,7 +4,7 @@
 - 很多人的配置都是将","键作为 **leader**键,而我是将";"这个更加容易触碰到的键作为 **leader**键使用
 -  **leader**键在vimrc设定方法为
 ```
-let map **leader** = ";"
+let mapleader=";"
 ```
 
 #### Vimrc中快捷键设定方式
