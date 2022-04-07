@@ -11,6 +11,6 @@
 - 使用Vim与GCC进行搭配
 
 #### MacOS
-- 同Linux
+- 同Linux即可
 
 #### 课堂笔记来源 [慕课网浙江大学C语言程序设计--主讲教师:翁恺](https://www.icourse163.org/course/ZJU-9001)
