@@ -23,8 +23,10 @@ let mapleader=";"
 	- \<C-A> --Ctrl+a
 	- \<A-C> --Alt+C
 	- \<BACKSPACE> --Backspace
+	- \<SPACE> --Space
 	- \<TAB> --Tab
 	- \<F1> --F1
+	- \<LEFT>\<DOWN>\<UP>\<RIGHT> --left down up right
 
 #### Vimrc其余配置
 - 因为本人更喜欢vim的整洁,所以没有太多配置内容,重点主要是设定快捷键部分
@@ -41,6 +43,7 @@ set windmenu | 命令菜单
 set hlsearch | 搜索高亮
 set incasearch | 所有搜索目标同时高亮
 set smartcase | 搜索智能大小写
+set scrolloff=5 | 滚动时光标至少留出五行
 set cindent | 开启缩进
 **比较进阶的配置** |
 set backspace=indent,eol,start | 设定退格键可以删除的字符
