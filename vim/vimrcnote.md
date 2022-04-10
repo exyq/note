@@ -44,7 +44,10 @@ set hlsearch | 搜索高亮
 set incasearch | 所有搜索目标同时高亮
 set smartcase | 搜索智能大小写
 set scrolloff=5 | 滚动时光标至少留出五行
+set t_Co=256 | 开启256色
 set cindent | 开启缩进
+set tabstop=4 | 设定tab键为4个空格(一般情况是八个)
+set shiftwidth=4 | 设定每一级缩进的长度
 **比较进阶的配置** |
 set backspace=indent,eol,start | 设定退格键可以删除的字符
 set autoindent | 设定智能缩进
