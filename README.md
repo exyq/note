@@ -3,11 +3,12 @@
 
 ### 笔记目录
 - [Vim](vim)
-- [Docker](docker)
+- [Tmux](tmux)
 - [Git](git)
+- [C语言](c)
+- [Docker](docker)
 - [Markdown](markdown)
 - [Nginx](nginx)
 - [系统安装](osinstall)
 - [Shell](shell)
-- [Tmux](tmux)
 
