@@ -2,9 +2,12 @@
 - 这个Repository用来装载未完善的笔记内容
 
 ### 笔记目录
+- [Vim](vim)
 - [Docker](docker)
 - [Git](git)
 - [Markdown](markdown)
 - [Nginx](nginx)
 - [系统安装](osinstall)
 - [Shell](shell)
+- [Tmux](tmux)
+
