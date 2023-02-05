@@ -13,9 +13,7 @@ cat ~/.ssh/id_rsa.pub > ~/.ssh/authorized_keys
 - 在git家目录下创建仓库
 ```sh
 cd /home/git
-mkdir <RepositoryName>.git
-cd <RepositoryName>.git
-git init .
+git init --bare <RepositoryName>.git
 ```
 - Git服务器搭建完成
 - 在客户端进行clone
