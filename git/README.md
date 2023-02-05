@@ -7,3 +7,4 @@
 - [Git多人协作](3.md)
 - [Git命令列表](gitcommandlist.md)
 - [Git注意事项](tips.md)
+- [Git服务器搭建](server.md)
