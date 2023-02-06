@@ -12,5 +12,8 @@
 * git checkout 跳转到某分支
 * git mv 重命名文件或移动文件
 * git push origin 将暂存区内文件推送到远程仓库
+	- git push origin2 master 可以创建推送到第二个远程仓库
 * git rm 删除工作目录中的文件
+* git remote add origin \<RepositoryAddress\> 添加远程仓库地址
+	- git remote add origin2 \<RepositoryAddress2\> 添加第二个远程仓库地址
 
