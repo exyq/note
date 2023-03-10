@@ -11,4 +11,5 @@
 - [Nginx](nginx)
 - [系统安装](osinstall)
 - [Shell](shell)
-
+- [PowerShell](powershell)
+- [SSH](ssh)
