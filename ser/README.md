@@ -5,3 +5,4 @@
 - [Centos的网络服务搭建](2c.md)
 - [Centos CA证书](3c.md)
 - [Centos NFS文件共享服务](4c.md)
+- [Centos Raid5&LVM](5c.md)
