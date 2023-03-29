@@ -37,6 +37,7 @@ syntax on | 开启高亮
 set number | 开启行号 
 set relativenumber | 一个神奇的行号: )
 set cursorline | 让编辑的当前行有一条底线,Gvim不建议开
+set mouse="" | 禁用鼠标
 set wrap | 开启折行(就是自动换行)
 set showcmd | 命令输入后显示
 set windmenu | 命令菜单
