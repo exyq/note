@@ -35,7 +35,7 @@ let mapleader=";"
 :---: | :---: |
 syntax on | 开启高亮 
 set number | 开启行号 
-set relativenumber | 一个神奇的行号: )
+set relativenumber | 开启相对行号
 set cursorline | 让编辑的当前行有一条底线,Gvim不建议开
 set mouse="" | 禁用鼠标
 set wrap | 开启折行(就是自动换行)
@@ -53,6 +53,7 @@ set backspace=indent,eol,start | 设定退格键可以删除的字符
 set autoindent | 设定智能缩进
 set smartindent | 智能缩进
 filetype on | 开启文件类型侦测
+set undolevels=5000 | 撤销次数设定为5000
 
 - 以下是一些关系到文件安全的配置
 
