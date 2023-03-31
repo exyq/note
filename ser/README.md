@@ -9,3 +9,4 @@
 - [CentOS DNS](6.md)
 - [UOS Base](7.md)
 - [UOS Chrony](8.md)
+- [UOS DNS(bind9)](9.md)
