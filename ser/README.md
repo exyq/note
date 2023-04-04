@@ -12,6 +12,7 @@
 - [UOS Base](7.md)
 - [UOS Chrony](8.md)
 - [UOS DNS(bind9)](9.md)
+- [UOS Apache2](10.md)
 
 ### Windows 笔记
 - [WindowsServer命令行操作](1w.md)
