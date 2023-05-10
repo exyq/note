@@ -2,4 +2,4 @@
 
 - [基础配置](1.md)
 - [Vlan](2.md)
-- [Telnet与SSH](3.md)
+- [Telnet SSH Web](3.md)
